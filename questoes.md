@@ -54,5 +54,17 @@ Via destinada ao acesso em áreas restritas:{
     * Via Local
 }
 
+Uma via de trânsito rápido é caracterizada:{
+    * Por acessos especiais com trânsito livre, sem interseções em nível, sem acessibilidade direta aos lotes lindeiros e sem travessia de pedestres em nível.
+}
+
+Proteção no interior das portas do veículo para proteger a região da bacia dos ocupantes:{
+    * Barras laterais.
+}
+
+Qual o tipo de retrovisor aumenta o campo de visão do condutor?{
+    * Convexo
+}
+
 
 
