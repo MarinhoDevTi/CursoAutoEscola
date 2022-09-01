@@ -14,7 +14,7 @@ Velocidade máxima em vias de trânsito Rápido será de:{
     * 80 Km/h.
 }
 
-Velocidade máxima em vias de trãnsito arteriais:{
+Velocidade máxima em vias de trânsito arteriais:{
     * 60 Km/h.
 }
 
@@ -25,3 +25,8 @@ O triângulo de segurança é:{
 A baixa calibragem dos pneus:{
     * Causa seu desgaste prematuro.
 }
+
+Não constitui exemplo de condições adversas no contexto viário:{
+    * Motociclista conduzindo uma motocicleta, pela manhã, rumo ao seu trabalho
+}
+
